@@ -19,7 +19,7 @@ class Cat(val name: String, private val initialWeight: Double) {
             println("Котик покушал и чувствует себя хорошо")
         }
         else{
-            println("Котик смльно переел, ему нужно отдохнуть")
+            println("Котик сильно переел, ему нужно отдохнуть")
         }
     }
 
